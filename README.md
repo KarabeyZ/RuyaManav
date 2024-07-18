@@ -1,1 +1,1 @@
-# RuyaManav
+Bu örnekte if else yapısıyla veya switch case yapısıyla bir manav pratiği gerçekleştirdim. Şahsi fikrim bu örnekte switch case yapısının kullanılmasının daha doğru olacağı. Daha çok okuabilirlik katması nedeniyse switch case yapısını kullanırdım.
